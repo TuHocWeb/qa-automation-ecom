@@ -1,1 +1,2 @@
 console.log('Test case 1: Dang nhap thanh cong');
+console.log('Test case Cart: dang viet do...');
